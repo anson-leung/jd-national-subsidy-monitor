@@ -1,0 +1,12 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "JD Monitor module" },
+    { "name": "EntryAbility_desc", "value": "Monitor JD product price and stock" },
+    { "name": "EntryAbility_label", "value": "JD Monitor" },
+    { "name": "reason_internet", "value": "Fetch product price and stock from JD" },
+    { "name": "reason_vibrate", "value": "Vibrate when target condition is met" },
+    { "name": "reason_background", "value": "Keep monitoring in background" },
+    { "name": "reason_notification", "value": "Send notification when condition is met" },
+    { "name": "reason_network_info", "value": "Check network status before polling" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "京东国补监控主模块" },
+    { "name": "EntryAbility_desc", "value": "商城商品库存价格监控与自动下单提醒" },
+    { "name": "EntryAbility_label", "value": "京东国补监控" },
+    { "name": "reason_internet", "value": "访问京东接口获取商品价格与库存信息" },
+    { "name": "reason_vibrate", "value": "命中目标条件时振动提醒您及时付款" },
+    { "name": "reason_background", "value": "后台持续监控商品价格与库存变化" },
+    { "name": "reason_notification", "value": "发送监控命中通知提醒" },
+    { "name": "reason_network_info", "value": "检测网络状态以决定是否继续轮询" }
+  ]
+}
